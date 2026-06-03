@@ -34,15 +34,6 @@ Average Salary
 
 Average Tenure
 
-Key Insights
-
-Overtime employees show higher attrition
-
-Younger employees (25–34) leave more frequently
-
-Low salary groups have higher turnover
-
-Certain job roles are more affected by attrition
 
 Dashboard Preview
 <img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/2dc297aa-d4b9-4a50-86be-f3c47f512a65" />
